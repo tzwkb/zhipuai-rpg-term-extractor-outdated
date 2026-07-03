@@ -1,6 +1,6 @@
 # RPG Term Extractor Based on ZhipuAI (Outdated)
 
-[中文](README_ZH.md) | English
+English | [中文](README_ZH.md)
 
 
 ⚠️ **This repository is archived and no longer maintained.**
